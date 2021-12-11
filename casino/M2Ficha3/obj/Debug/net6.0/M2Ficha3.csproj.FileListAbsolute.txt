@@ -1,0 +1,16 @@
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\M2Ficha3.exe
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\M2Ficha3.deps.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\M2Ficha3.runtimeconfig.json
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\M2Ficha3.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\ref\M2Ficha3.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\bin\Debug\net6.0\M2Ficha3.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.GlobalUsings.g.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\ref\M2Ficha3.dll
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.pdb
+C:\Users\pedro\OneDrive\Ambiente de Trabalho\Fevereiro3\Fevereiro2\Fevereiro\M2Ficha3\M2Ficha3\obj\Debug\net6.0\M2Ficha3.genruntimeconfig.cache
